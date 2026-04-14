@@ -1,9 +1,5 @@
 let listaDeNumerosSorteados = [];
-<<<<<<< HEAD
 let numeroLimite = 50;
-=======
-let numeroLimite = 10;
->>>>>>> parent of e41b1ac (Alteração de limiter de 10 para 100 (index e app.js))
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
